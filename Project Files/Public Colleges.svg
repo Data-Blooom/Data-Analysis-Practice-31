@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 397 565">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0 {
+        filter: url(#fx1);
+      }
+
+      .st1 {
+        filter: url(#fx0);
+      }
+
+      .st2 {
+        clip-path: url(#clippath-7);
+      }
+
+      .st3 {
+        filter: url(#fx3);
+      }
+
+      .st4 {
+        clip-path: url(#clippath-15);
+      }
+
+      .st5 {
+        clip-path: url(#clippath-9);
+      }
+
+      .st6 {
+        filter: url(#fx2);
+      }
+
+      .st7 {
+        clip-path: url(#clippath-11);
+      }
+
+      .st8 {
+        fill: none;
+      }
+
+      .st9 {
+        clip-path: url(#clippath-1);
+      }
+
+      .st10 {
+        clip-path: url(#clippath-5);
+      }
+
+      .st11 {
+        clip-path: url(#clippath-3);
+      }
+
+      .st12, .st13 {
+        fill: #262a76;
+      }
+
+      .st13 {
+        fill-rule: evenodd;
+      }
+
+      .st14 {
+        display: none;
+      }
+
+      .st15 {
+        clip-path: url(#clippath-13);
+      }
+
+      .st16 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st8" width="397" height="565"/>
+    </clipPath>
+    <clipPath id="clippath-1">
+      <rect class="st12" x="-3" y="-3" width="44" height="44"/>
+    </clipPath>
+    <filter id="fx0" x="-10%" y="-10%" width="120%" height="120%">
+      <feComponentTransfer>
+        <feFuncR tableValues="0.905882 0.905882" type="discrete"/>
+        <feFuncG tableValues="0.901961 0.901961" type="discrete"/>
+        <feFuncB tableValues="0.901961 0.901961" type="discrete"/>
+        <feFuncA slope="0.4" type="linear"/>
+      </feComponentTransfer>
+      <feGaussianBlur stdDeviation="1.77778 1.77778"/>
+    </filter>
+    <clipPath id="clippath-3">
+      <rect class="st12" x="-1" y="-1" width="41" height="41"/>
+    </clipPath>
+    <clipPath id="clippath-5">
+      <rect class="st12" x="-3" y="153" width="44" height="44"/>
+    </clipPath>
+    <filter id="fx1" x="-10%" y="-10%" width="120%" height="120%">
+      <feComponentTransfer>
+        <feFuncR tableValues="0.905882 0.905882" type="discrete"/>
+        <feFuncG tableValues="0.901961 0.901961" type="discrete"/>
+        <feFuncB tableValues="0.901961 0.901961" type="discrete"/>
+        <feFuncA slope="0.4" type="linear"/>
+      </feComponentTransfer>
+      <feGaussianBlur stdDeviation="1.77778 1.77778"/>
+    </filter>
+    <clipPath id="clippath-7">
+      <rect class="st12" x="-1" y="155" width="41" height="41"/>
+    </clipPath>
+    <clipPath id="clippath-9">
+      <rect class="st12" x="355" y="153" width="44" height="44"/>
+    </clipPath>
+    <filter id="fx2" x="-10%" y="-10%" width="120%" height="120%">
+      <feComponentTransfer>
+        <feFuncR tableValues="0.905882 0.905882" type="discrete"/>
+        <feFuncG tableValues="0.901961 0.901961" type="discrete"/>
+        <feFuncB tableValues="0.901961 0.901961" type="discrete"/>
+        <feFuncA slope="0.4" type="linear"/>
+      </feComponentTransfer>
+      <feGaussianBlur stdDeviation="1.77778 1.77778"/>
+    </filter>
+    <clipPath id="clippath-11">
+      <rect class="st12" x="357" y="155" width="41" height="41"/>
+    </clipPath>
+    <clipPath id="clippath-13">
+      <rect class="st12" x="-3" y="379" width="44" height="44"/>
+    </clipPath>
+    <filter id="fx3" x="-10%" y="-10%" width="120%" height="120%">
+      <feComponentTransfer>
+        <feFuncR tableValues="0.905882 0.905882" type="discrete"/>
+        <feFuncG tableValues="0.901961 0.901961" type="discrete"/>
+        <feFuncB tableValues="0.901961 0.901961" type="discrete"/>
+        <feFuncA slope="0.4" type="linear"/>
+      </feComponentTransfer>
+      <feGaussianBlur stdDeviation="1.77778 1.77778"/>
+    </filter>
+    <clipPath id="clippath-15">
+      <rect class="st12" x="-1" y="381" width="41" height="41"/>
+    </clipPath>
+  </defs>
+  <g class="st16">
+    <g>
+      <g class="st14">
+        <rect class="st12" x="-3" y="-3" width="44" height="44"/>
+        <g class="st9">
+          <g class="st1">
+            <g>
+              <rect class="st12" x="-1" y="-1" width="41" height="41"/>
+              <g class="st11">
+                <path class="st13" d="M5.83,19.33c0-7.46,6.04-13.5,13.5-13.5s13.5,6.04,13.5,13.5-6.04,13.5-13.5,13.5-13.5-6.04-13.5-13.5Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path class="st13" d="M3,16.5c0-7.46,6.04-13.5,13.5-13.5s13.5,6.04,13.5,13.5-6.04,13.5-13.5,13.5S3,23.96,3,16.5Z"/>
+      <g class="st14">
+        <rect class="st12" x="-3" y="153" width="44" height="44"/>
+        <g class="st10">
+          <g class="st0">
+            <g>
+              <rect class="st12" x="-1" y="155" width="41" height="41"/>
+              <g class="st2">
+                <path class="st13" d="M5.83,175.33c0-7.46,6.04-13.5,13.5-13.5s13.5,6.04,13.5,13.5-6.04,13.5-13.5,13.5-13.5-6.04-13.5-13.5Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path class="st13" d="M3,172.5c0-7.46,6.04-13.5,13.5-13.5s13.5,6.04,13.5,13.5-6.04,13.5-13.5,13.5-13.5-6.04-13.5-13.5Z"/>
+      <g class="st14">
+        <rect class="st12" x="355" y="153" width="44" height="44"/>
+        <g class="st5">
+          <g class="st6">
+            <g>
+              <rect class="st12" x="357" y="155" width="41" height="41"/>
+              <g class="st7">
+                <path class="st13" d="M363.83,175.33c0-7.46,6.04-13.5,13.5-13.5s13.5,6.04,13.5,13.5-6.04,13.5-13.5,13.5-13.5-6.04-13.5-13.5Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path class="st13" d="M361,172.5c0-7.46,6.04-13.5,13.5-13.5s13.5,6.04,13.5,13.5-6.04,13.5-13.5,13.5-13.5-6.04-13.5-13.5Z"/>
+      <g class="st14">
+        <rect class="st12" x="-3" y="379" width="44" height="44"/>
+        <g class="st15">
+          <g class="st3">
+            <g>
+              <rect class="st12" x="-1" y="381" width="41" height="41"/>
+              <g class="st4">
+                <path class="st13" d="M5.83,401.33c0-7.46,6.04-13.5,13.5-13.5s13.5,6.04,13.5,13.5-6.04,13.5-13.5,13.5-13.5-6.04-13.5-13.5Z"/>
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <path class="st13" d="M3,398.5c0-7.46,6.04-13.5,13.5-13.5s13.5,6.04,13.5,13.5-6.04,13.5-13.5,13.5-13.5-6.04-13.5-13.5Z"/>
+      <rect class="st12" x="14" y="17" width="4" height="547"/>
+      <rect class="st12" x="14" y="138" width="362" height="4"/>
+      <rect class="st12" x="373" y="138" width="4" height="38"/>
+    </g>
+  </g>
+</svg>
