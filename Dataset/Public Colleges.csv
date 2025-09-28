@@ -1,0 +1,473 @@
+﻿Year;Nationality;الجنسية;Country;الدولة;Gender;النوع;Number of Students
+2022/2023;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;5767
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;92
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;143
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;934
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;745
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;727
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;31
+2022/2023;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;223
+2022/2023;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;628
+2021/2022;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;17544
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;434
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;401
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;45
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;79
+2021/2022;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;340
+2021/2022;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;499
+2020/2021;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;165
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;364
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;577
+2020/2021;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;33
+2020/2021;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;49
+2020/2021;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;267
+2020/2021;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;380
+2019/2020;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;71
+2019/2020;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;10
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;477
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;16
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;345
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;31
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;15
+2019/2020;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;21
+2019/2020;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;124
+2019/2020;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;190
+2019/2020;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;271
+2018/2019;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;15341
+2018/2019;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;114
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;32
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;67
+2018/2019;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;10
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;21
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;48
+2016/2017;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;54
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;212
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;55
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;57
+2014/2015;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;31
+2014/2015;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;206
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;47
+2014/2015;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;10
+2014/2015;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;90
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;78
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;324
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;29
+2022/2023;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;124
+2020/2021;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;115
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;81
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;38
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;83
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;48
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;32
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;55
+2017/2018;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;18
+2017/2018;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;9
+2016/2017;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;3678
+2016/2017;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;6
+2016/2017;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;87
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;290
+2016/2017;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;112
+2015/2016;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;107
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;544
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;544
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;149
+2022/2023;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;25
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;880
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;726
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;398
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;112
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;145
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;343
+2020/2021;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;451
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;663
+2018/2019;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;46
+2018/2019;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;81
+2017/2018;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;7
+2017/2018;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;378
+2017/2018;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;123
+2016/2017;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;6
+2016/2017;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;168
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;96
+2015/2016;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;11355
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;650
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;276
+2015/2016;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;363
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;273
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;483
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;239
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;30
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;57
+2014/2015;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;40
+2014/2015;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;3
+2014/2015;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;13
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;49
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;37
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;42
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;200
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;20
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;568
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;37
+2015/2016;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;7
+2015/2016;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;154
+2015/2016;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;51
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;237
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;32
+2014/2015;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;50
+2022/2023;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;60
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;447
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;444
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;661
+2022/2023;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;346
+2022/2023;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;554
+2022/2023;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;417
+2021/2022;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;40
+2021/2022;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;70
+2021/2022;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;52
+2021/2022;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;121
+2021/2022;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;694
+2020/2021;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;12
+2020/2021;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;125
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;294
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;41
+2020/2021;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;636
+2020/2021;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;504
+2019/2020;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;66
+2019/2020;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;41
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;114
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;77
+2019/2020;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;264
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;642
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;320
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;146
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;47
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;56
+2018/2019;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;18
+2018/2019;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;109
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;671
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;68
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;33
+2017/2018;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;40
+2017/2018;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;80
+2017/2018;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;236
+2016/2017;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;17
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;26
+2016/2017;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;222
+2016/2017;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;88
+2016/2017;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;254
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;266
+2014/2015;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;42
+2014/2015;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;67
+2014/2015;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;18
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;28
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;612
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;86
+2022/2023;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;428
+2022/2023;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;540
+2022/2023;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;633
+2021/2022;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;6019
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;494
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;594
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;41
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;31
+2021/2022;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;367
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;793
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;413
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;295
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;35
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;154
+2018/2019;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;15
+2018/2019;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;70
+2017/2018;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;59
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;328
+2017/2018;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;161
+2016/2017;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;36
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;498
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;74
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;82
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;650
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;25
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;124
+2015/2016;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;84
+2014/2015;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;5
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;59
+2021/2022;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;9
+2021/2022;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;21
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;688
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;320
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;71
+2020/2021;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;5369
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;447
+2019/2020;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;124
+2018/2019;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;84
+2018/2019;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;8
+2017/2018;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;4101
+2017/2018;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;7
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;149
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;479
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;54
+2016/2017;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;239
+2015/2016;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;177
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;238
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;57
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;42
+2022/2023;Other Countries;بلدان أخرى;Bangladesh;بنغلاديش;Male;ذكر;196
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;610
+2020/2021;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;85
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;80
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;75
+2019/2020;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;55
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;401
+2018/2019;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;7
+2018/2019;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;63
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;110
+2017/2018;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;10
+2016/2017;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;57
+2016/2017;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;126
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;690
+2016/2017;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;38
+2016/2017;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;6
+2015/2016;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;67
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;28
+2015/2016;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;15
+2015/2016;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;63
+2022/2023;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;22
+2022/2023;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;147
+2022/2023;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;595
+2022/2023;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;59
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;63
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;88
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;28
+2022/2023;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;39
+2021/2022;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;83
+2021/2022;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;168
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;148
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;54
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;56
+2021/2022;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;19
+2021/2022;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;25
+2021/2022;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;37
+2021/2022;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;52
+2021/2022;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;439
+2020/2021;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;23
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;409
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;75
+2020/2021;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;20
+2020/2021;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;26
+2020/2021;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;198
+2020/2021;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;207
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;187
+2019/2020;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;20
+2019/2020;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;152
+2018/2019;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;3830
+2018/2019;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;64
+2018/2019;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;180
+2018/2019;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;36
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;14
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;33
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;115
+2018/2019;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;155
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;279
+2017/2018;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;124
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;200
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;55
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;26
+2016/2017;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;12
+2016/2017;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;25
+2015/2016;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;6
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;65
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;79
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;54
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;34
+2015/2016;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;18
+2022/2023;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;168
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;360
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;539
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;70
+2022/2023;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;60
+2021/2022;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;135
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;82
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;484
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;78
+2021/2022;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;354
+2020/2021;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;77
+2020/2021;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;61
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;615
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;43
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;28
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;147
+2020/2021;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;22
+2019/2020;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;3793
+2019/2020;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;8
+2019/2020;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;171
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;228
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;50
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;40
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;32
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;150
+2019/2020;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;49
+2019/2020;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;27
+2019/2020;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;92
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;184
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;17
+2018/2019;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;236
+2017/2018;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;61
+2017/2018;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;175
+2017/2018;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;34
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;101
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;562
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;192
+2017/2018;Other Countries;بلدان أخرى;India;الهند;Male;ذكر;62
+2017/2018;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;231
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;86
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;31
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;24
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;58
+2016/2017;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;21
+2016/2017;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;138
+2015/2016;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;3081
+2015/2016;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;14
+2015/2016;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;33
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;508
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;43
+2015/2016;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;10
+2015/2016;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;42
+2015/2016;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;240
+2014/2015;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Female;أنثى;146
+2014/2015;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;146
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;63
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;24
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;73
+2014/2015;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;264
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;593
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;578
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;76
+2014/2015;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;10
+2014/2015;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;82
+2022/2023;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;78
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Male;ذكر;57
+2022/2023;Other Countries;بلدان أخرى;Bangladesh;بنغلاديش;Female;أنثى;186
+2021/2022;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;71
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;727
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;76
+2019/2020;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;479
+2019/2020;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;10
+2019/2020;Other Countries;بلدان أخرى;Pakistan;باكستان;Male;ذكر;105
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;110
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;326
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Female;أنثى;30
+2018/2019;Other Countries;بلدان أخرى;India;الهند;Female;أنثى;127
+2017/2018;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;82
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;233
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;477
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;54
+2017/2018;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Female;أنثى;18
+2017/2018;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;207
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;659
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;579
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;548
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;325
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;30
+2014/2015;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Male;ذكر;3211
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;64
+2014/2015;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;38
+2014/2015;Other Countries;بلدان أخرى;Other;أخرى;Male;ذكر;240
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;64
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;676
+2019/2020;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;89
+2018/2019;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;464
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Female;أنثى;601
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Female;أنثى;442
+2017/2018;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;14527
+2014/2015;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;10708
+2014/2015;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;83
+2014/2015;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;114
+2022/2023;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;17690
+2022/2023;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;16
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Male;ذكر;422
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;781
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;85
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Morocco;المغرب;Male;ذكر;38
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Morocco;المغرب;Female;أنثى;50
+2022/2023;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;74
+2022/2023;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;9
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;668
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;136
+2021/2022;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Female;أنثى;173
+2021/2022;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;568
+2020/2021;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;17208
+2020/2021;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;513
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;40
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;533
+2020/2021;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Female;أنثى;72
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Female;أنثى;641
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Algeria;الجزائر;Female;أنثى;40
+2019/2020;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;13
+2018/2019;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Male;ذكر;8
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;274
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;224
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;608
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;206
+2018/2019;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;28
+2018/2019;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;200
+2018/2019;Other Countries;بلدان أخرى;Other;أخرى;Female;أنثى;250
+2017/2018;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;29
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;465
+2017/2018;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;24
+2016/2017;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;13264
+2016/2017;G.C.C;مجلس التعاون الخليجي;Bahrain;البحرين;Male;ذكر;67
+2016/2017;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;323
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Jordan;الأردن;Male;ذكر;238
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;156
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Female;أنثى;75
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;31
+2016/2017;Other Countries;بلدان أخرى;Canada;كندا;Male;ذكر;14
+2015/2016;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;45
+2015/2016;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Male;ذكر;81
+2015/2016;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;256
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;160
+2015/2016;Other Countries;بلدان أخرى;Canada;كندا;Female;أنثى;33
+2014/2015;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;237
+2022/2023;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Female;أنثى;87
+2022/2023;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;46
+2021/2022;G.C.C;مجلس التعاون الخليجي;Saudi Arabia;المملكة العربية السعودية;Female;أنثى;572
+2021/2022;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;220
+2020/2021;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Male;ذكر;53
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;55
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;134
+2019/2020;G.C.C;مجلس التعاون الخليجي;Qatar;قطر;Female;أنثى;15992
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;41
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;597
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;44
+2018/2019;G.C.C;مجلس التعاون الخليجي;Kuwait;الكويت;Female;أنثى;52
+2018/2019;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;438
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Male;ذكر;46
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Egypt;مصر;Male;ذكر;617
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;286
+2017/2018;The Rest of the Arab Countries;باقي الدول العربية;Tunisia;تونس;Male;ذكر;29
+2017/2018;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;100
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;273
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;188
+2015/2016;G.C.C;مجلس التعاون الخليجي;Oman;عمان;Female;أنثى;135
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;199
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Male;ذكر;28
+2015/2016;Other Countries;بلدان أخرى;United Kingdom;المملكة المتحدة;Male;ذكر;3
+2015/2016;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;108
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;187
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Lebanon;لبنان;Female;أنثى;49
+2022/2023;The Rest of the Arab Countries;باقي الدول العربية;Mouritani;موريتانيا;Male;ذكر;46
+2021/2022;Other Countries;بلدان أخرى;United States;الولايات المتحدة الأمريكية;Male;ذكر;37
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Male;ذكر;66
+2020/2021;The Rest of the Arab Countries;باقي الدول العربية;Other Arab Countries;الدول العربية الأخرى;Male;ذكر;85
+2020/2021;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;303
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Male;ذكر;216
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Syria;سوريا;Female;أنثى;356
+2019/2020;The Rest of the Arab Countries;باقي الدول العربية;Somalia;الصومال;Female;أنثى;89
+2019/2020;Other Countries;بلدان أخرى;Iran;إيران;Female;أنثى;206
+2016/2017;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Female;أنثى;299
+2016/2017;Other Countries;بلدان أخرى;Iran;إيران;Male;ذكر;109
+2015/2016;The Rest of the Arab Countries;باقي الدول العربية;Iraq;العراق;Female;أنثى;54
+2014/2015;G.C.C;مجلس التعاون الخليجي;United Arab Emirates;الإمارات العربية المتحدة;Male;ذكر;5
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Yemen;اليمن;Male;ذكر;235
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Palestine;فلسطين;Female;أنثى;542
+2014/2015;The Rest of the Arab Countries;باقي الدول العربية;Sudan;السودان;Male;ذكر;174
+2014/2015;Other Countries;بلدان أخرى;Pakistan;باكستان;Female;أنثى;154
