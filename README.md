@@ -33,7 +33,17 @@ Created a numerical calculated column `StartYear` for YoY analysis:
 
 ```DAX
 StartYear = VALUE( LEFT ( 'Public Colleges'[Year], 4 ) )
+```
 
+Purpose: Extracts the numerical starting year from the academic year string (e.g., extracts 2022 from "2022/2023")
+
+## 📈 Enrollment Growth Trend:
+
+The annual student count has increased steadily, rising from 21K in 2014/2015 to 38K in 2022/2023. This trajectory validates internationalization strategies.
+
+YoY Change Measure precisely quantifies this growth:
+
+```DAX
 YoY Change = 
 VAR CurrentYear = MAX('Public Colleges'[StartYear])
 VAR CurrentTotal =
@@ -48,11 +58,23 @@ VAR PrevTotal =
     )
 RETURN
     CurrentTotal - PrevTotal
+```
 
+### Detailed Visual Construction and DAX Implementation
 
+1. Top-Tier KPI Cards
+The four main KPI cards were built on robust DAX measures to ensure reliable, context-aware aggregation:
+
+Total Students (Cumulative):
+
+```DAX
 Total Students = SUM('Public Colleges'[Number of Students])
+```
 
+## Students in Latest Year:
+Dynamically calculates enrollment for the most recent academic year available in the data
 
+```DAX
 Latest Year Students = 
 VAR MaxYear = MAX('Public Colleges'[Year])
 RETURN
@@ -60,8 +82,12 @@ RETURN
         SUM('Public Colleges'[Number of Students]),
         'Public Colleges'[Year] = MaxYear
     )
+```
 
+## Female Student Share:
+Calculates the percentage of female students across the entire population base
 
+```DAX
 Female Student Share = 
 VAR Total = SUM('Public Colleges'[Number of Students])
 VAR Female = CALCULATE(
@@ -70,8 +96,12 @@ VAR Female = CALCULATE(
 )
 RETURN
     DIVIDE(Female, Total, 0) * 100
+```
 
+## Dominant Nationality Group:
+Identifies the single group with the highest total enrollment, crucial for marketing prioritization
 
+```DAX
 Dominant Nationality Group = 
 VAR TopRow =
     TOPN(
@@ -85,8 +115,6 @@ VAR TopRow =
     )
 RETURN
 CONCATENATEX(TopRow, 'Public Colleges'[Nationality], ", ")
-
-
 ```
 
 ## 📊 Key Strategic Insights
