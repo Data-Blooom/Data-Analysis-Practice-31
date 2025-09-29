@@ -1,81 +1,123 @@
-# 🌍 International Student Population Trends Analysis
+# 🌍 Project Documentation: International Student Population Analysis  
 
-A comprehensive data analysis project exploring trends and composition of international student populations across academic years.
+---
 
-## 📊 Project Overview
-This Power BI dashboard analyzes international student data, tracking demographic trends, geographic distribution, and year-over-year changes. The project provides valuable insights for educational institutions' strategic planning and recruitment strategies.
+## 📌 Project Overview and Purpose  
+This document provides the technical and analytical documentation for the **International Student Population Trend and Composition Analysis** dashboard, covering the academic years **2014/2015 through 2022/2023**.  
 
-## 🎯 Key Insights
-- **Total Students:** 256,000
-- **Female Student Share:** 72.44%
-- **Dominant Nationality Group:** G.C.C (Gulf Cooperation Council Countries)
-- **Steady YoY Growth:** From 24K (2016/2017) to 38K (2022/2023)
-- **Wide Geographic Reach:** Students from 52+ countries across all continents
+Developed entirely in **Power BI**, this project's primary objective was to move beyond simple reporting and transform raw enrollment data into a strategic, decision-making tool.  
 
-## 📈 Visualizations Included
-1. **Student Balance by Nationality Groups** (Annual trends)
-2. **Gender Share Evolution** (Year-over-year comparison)
-3. **YoY Change in Student Numbers** (Growth analysis)
-4. **World Map Distribution** (Geographic origin visualization)
+The dashboard offers:  
+- Critical visibility into demographic trends  
+- Sustained growth trajectories  
+- Performance of key international source markets  
 
-## 🔧 Technical Implementation
+These insights inform strategic planning for resource allocation and recruitment.  
 
-### Data Model Structure
-- **Fact Table:** 'Public Colleges' with student records
-- **Key Columns:** Year, Nationality, Gender, Number of Students
-- **Calculated Columns:** StartYear for time intelligence
+---
 
-### DAX Measures & Calculations
+## 🗂️ Data Architecture, Modeling, and Preparation  
 
-```dax
--- Total Students Calculation
+### 1️⃣ Data Source and Tooling  
+- Core data originates from a single enrollment table, designated as **'Public Colleges'** in the Power BI Data Model.  
+- All complex calculations and time-intelligence analyses are driven by **DAX** (Data Analysis Expressions) measures.  
+
+### 2️⃣ Robust ETL and Data Cleaning (Power Query)  
+Key steps executed in **Power Query**:  
+- **Junk Removal**: Removed all blank rows and columns to streamline dataset and prevent errors.  
+- **Dimensional Consolidation**: Eliminated redundant/irrelevant columns, following **star schema** best practices.  
+- **Value Correction**: Standardized categorical fields (e.g., nationality names, gender labels).  
+
+### 3️⃣ Calculated Columns for Time Intelligence  
+Created a numerical calculated column `StartYear` for YoY analysis:  
+
+```DAX
+StartYear = VALUE( LEFT ( 'Public Colleges'[Year], 4 ) )
+
+YoY Change = 
+VAR CurrentYear = MAX('Public Colleges'[StartYear])
+VAR CurrentTotal =
+    CALCULATE(
+        SUM('Public Colleges'[Number of Students]),
+        'Public Colleges'[StartYear] = CurrentYear
+    )
+VAR PrevTotal =
+    CALCULATE(
+        SUM('Public Colleges'[Number of Students]),
+        'Public Colleges'[StartYear] = CurrentYear - 1
+    )
+RETURN
+    CurrentTotal - PrevTotal
+
+
 Total Students = SUM('Public Colleges'[Number of Students])
 
--- Female Student Percentage
-Female Share = 
+
+Latest Year Students = 
+VAR MaxYear = MAX('Public Colleges'[Year])
+RETURN
+    CALCULATE(
+        SUM('Public Colleges'[Number of Students]),
+        'Public Colleges'[Year] = MaxYear
+    )
+
+
+Female Student Share = 
 VAR Total = SUM('Public Colleges'[Number of Students])
 VAR Female = CALCULATE(
     SUM('Public Colleges'[Number of Students]),
-    'Public Colleges'[Gender] = "زن"
+    'Public Colleges'[Gender] = "Female"
 )
-RETURN DIVIDE(Female, Total, 0) * 100
+RETURN
+    DIVIDE(Female, Total, 0) * 100
 
--- Dominant Nationality Group Identification
+
 Dominant Nationality Group = 
-VAR TopRow = TOPN(
-    1,
-    SUMMARIZE(
-        'Public Colleges',
-        'Public Colleges'[Nationality],
-        "Total", SUM('Public Colleges'[Number of Students])
-    ),
-    [Total], DESC
-)
-RETURN CONCATENATEX(TopRow, 'Public Colleges'[Nationality], ", ")
+VAR TopRow =
+    TOPN(
+        1,
+        SUMMARIZE(
+            'Public Colleges',
+            'Public Colleges'[Nationality],
+            "Total", SUM('Public Colleges'[Number of Students])
+        ),
+        [Total], DESC
+    )
+RETURN
+CONCATENATEX(TopRow, 'Public Colleges'[Nationality], ", ")
 
--- Latest Year Student Count
-Students Latest Year = 
-VAR MaxYear = MAX('Public Colleges'[Year])
-RETURN CALCULATE(
-    SUM('Public Colleges'[Number of Students]),
-    'Public Colleges'[Year] = MaxYear
-)
 
--- Year-over-Year Change Calculation
-YoY Change = 
-VAR CurrentYear = MAX('Public Colleges'[StartYear])
-VAR CurrentTotal = CALCULATE(
-    SUM('Public Colleges'[Number of Students]),
-    'Public Colleges'[StartYear] = CurrentYear
-)
-VAR PrevTotal = CALCULATE(
-    SUM('Public Colleges'[Number of Students]),
-    'Public Colleges'[StartYear] = CurrentYear - 1
-)
-RETURN CurrentTotal - PrevTotal
+```
 
--- StartYear Extraction for Time Intelligence
-StartYear = VALUE(LEFT('Public Colleges'[Year], 4))
+## 📊 Key Strategic Insights
 
--- Transparent Background for Visuals
-Background Removal = "rgba(255, 255, 255, 0)"
+| Key Performance Indicator              | Value  | Strategic Interpretation                                                                 |
+| -------------------------------------- | ------ | ---------------------------------------------------------------------------------------- |
+| **Total Cumulative Students**          | 256K   | The total enrollment base analyzed over the entire period.                               |
+| **Latest Year Enrollment (2022/2023)** | 38K    | Confirms strong, sustained student attraction and enrollment growth.                     |
+| **Female Student Share**               | 72.44% | Indicates a profound gender dominance that must inform planning and program development. |
+| **Dominant Nationality Group**         | G.C.C. | Reinforces Gulf Cooperation Council nations as the critical source market.               |
+
+
+## 📊 Visuals Used
+
+- Annual Enrollment Trend Chart → Shows growth performance over time.
+
+- Gender Composition by Year → Annual breakdown of Male vs. Female.
+
+- Nationality Enrollment Trend (Stacked Bar) → Market share by nationality groups (G.C.C., Other Countries, Rest of Arab World).
+
+- Geographic Distribution Map → Visualizes spread of student origins.
+
+
+## ✅ Conclusion
+
+This Power BI project demonstrates the impact of structured data preparation and advanced DAX modeling in transforming complex educational data into clear strategic guidance.
+
+## 🔑 Key findings:
+
+- 72.44% female dominance across the student population.
+
+- G.C.C. group as the dominant nationality source.
+
+- Sustained enrollment growth supporting internationalization strategies.
